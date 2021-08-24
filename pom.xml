@@ -37,5 +37,5 @@
               <version>2.25</version>
         </dependency>
     </dependencies>
-    <name>Zadatak1REST</name>
+    <name>WarehouseREST</name>
 </project>
